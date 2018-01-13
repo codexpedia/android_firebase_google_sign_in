@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "xxxxxxxxx",
+    "firebase_url": "https://xxx-xxx-xxx.firebaseio.com",
+    "project_id": "xxx-xxx-xxx",
+    "storage_bucket": "xxx-xxx-xxx.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:124531534:android:firebasegooglesignin",
+        "android_client_info": {
+          "package_name": "com.example.firebasegooglesignin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "xxx-xxx-xxx-xxxxxxxxx.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firebasegooglesignin",
+            "certificate_hash": "xxxxxxxxx"
+          }
+        },
+        {
+          "client_id": "xxxxxxxxx-xxxxxxxxx.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "xxxxxxxxx-xxxxxxxxx-xxxxxxxxx"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "xxxxxxxxx-xxxxxxxxx.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
